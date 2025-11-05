@@ -12,4 +12,4 @@
 
 ### ©️ Copyright 2025 — **GiaHung**
 > Mọi quyền được sao lưu.  
-> Nếu bạn sử dụng lại mã nguồn, vui lòng ghi rõ nguồn: [GiaHungzZ].
+> Nếu bạn sử dụng lại mã nguồn, vui lòng ghi rõ nguồn: [GiaHung].
