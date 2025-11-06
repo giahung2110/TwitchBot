@@ -1,7 +1,7 @@
 # 🚀 Hướng dẫn chạy `TwitchAuto`
 
 Tập tin này chứa hướng dẫn chi tiết để chạy tool **Selenium TwitchAuto** mà bạn đã được cung cấp.  
-Công cụ này giúp tự động điền username và nhấn nút GET +100 FOLLOWERS trên trang bạn sở hữu.  
+Công cụ này giúp tự động buff Follow Twitch cho bạn.  
 > ⚠️ **Lưu ý:** Chỉ sử dụng tool cho các trang bạn tạo hoặc được phép test, **không dùng cho mục đích spam hoặc gây hại**.
 
 ---
