@@ -134,7 +134,7 @@ python main.py --username "giahung2110" --delay 60 --headless --max-iterations 1
 
 ✨ Tool ` main2.py` là bản Selenium tự động hóa tiện dụng, có thể:
 - Tự động điền username 🎯  
-- Tự động click nút GET +100 FOLLOWERS 💥  
+- Tự động Buff FOLLOWERS api 💥  
 - Tự động chờ delay và lặp lại 🔁  
 - Chạy ẩn hoặc hiển tuỳ ý 🌗  
 
@@ -160,4 +160,4 @@ python main.py --username "giahung2110" --delay 60 --headless --max-iterations 1
 
 ### ©️ Copyright 2025 — **GiaHung**
 > Mọi quyền được sao lưu.  
-> Nếu bạn sử dụng lại mã nguồn, vui lòng ghi rõ nguồn: [GiaHungzZ].
+> Nếu bạn sử dụng lại mã nguồn, vui lòng ghi rõ nguồn: [GiaHung].
