@@ -1,6 +1,6 @@
-# 🚀 Hướng dẫn chạy `SwitchAuto`
+# 🚀 Hướng dẫn chạy `TwitchAuto`
 
-Tập tin này chứa hướng dẫn chi tiết để chạy tool **Selenium SwitchAuto** mà bạn đã được cung cấp.  
+Tập tin này chứa hướng dẫn chi tiết để chạy tool **Selenium TwitchAuto** mà bạn đã được cung cấp.  
 Công cụ này giúp tự động điền username và nhấn nút GET +100 FOLLOWERS trên trang bạn sở hữu.  
 > ⚠️ **Lưu ý:** Chỉ sử dụng tool cho các trang bạn tạo hoặc được phép test, **không dùng cho mục đích spam hoặc gây hại**.
 
