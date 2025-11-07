@@ -114,7 +114,7 @@ python main.py --username "giahung2110" --delay 60 --headless --max-iterations 1
 
 ---
 
-## 🔄 Hai chế độ sử dụng
+## 🔄 Một chế độ sử dụng
 
 | Chế độ | Mô tả |
 |--------|-------|
@@ -140,7 +140,7 @@ python main.py --username "giahung2110" --delay 60 --headless --max-iterations 1
 
 ---
 
-💡 **Nếu bạn muốn mình tạo thêm:**
+💡 **Chuyên Nghiệp**
 - 🧾 File log `.log` chuyên nghiệp  
 - 🪄 Giao diện CLI có thanh tiến trình  
 - 🧰 File `.bat` chạy nhanh trên Windows  
